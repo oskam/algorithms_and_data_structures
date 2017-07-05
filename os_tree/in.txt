@@ -1,0 +1,19 @@
+18
+insert 10
+insert 9
+insert 5
+insert 4
+insert 3
+insert 6
+insert 7
+insert 8
+insert 2
+insert 1
+inorder
+osselect 5
+osselect 1
+osselect 10
+osrank 5
+osrank 1
+osrank 10
+osrank 3
